@@ -16,3 +16,5 @@
 
 
 ## Lab 1-3 安裝Ubuntu 20/04 LST
+
+![螢幕擷取畫面 2022-03-06 150134](https://user-images.githubusercontent.com/89327102/158043082-566463c3-82d4-4593-aace-8ae5497e09b6.jpg)
