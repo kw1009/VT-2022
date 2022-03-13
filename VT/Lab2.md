@@ -7,6 +7,9 @@
 
 ## Lab 2-2 VMWare的相關設定介紹
 
+![螢幕擷取畫面 2022-03-13 122026](https://user-images.githubusercontent.com/89327102/158044948-bd492c4d-952c-44e5-a7fa-e464a646a9e3.jpg)
+
+
 ## Lab 2-3 請加入一台Win11 Virtual Machine
 
 ## Lab 2-4 請加入一台Android Virtual Machine
