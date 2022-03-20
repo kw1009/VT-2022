@@ -12,4 +12,6 @@
 
 ## Lab 2-3 請加入一台Win11 Virtual Machine
 
+![螢幕擷取畫面 2022-03-20 114237](https://user-images.githubusercontent.com/89327102/159147131-b16a75cb-c60a-4d67-8a41-6d6e523b13aa.jpg)
+
 ## Lab 2-4 請加入一台Android Virtual Machine
