@@ -1,5 +1,14 @@
 # Lab1: 起手式 - 虛擬化技術? 虛擬化技術機器? VMWare + VMware Tools + 第一個Linux VM
 
+<a name="000"/>
+
+#### 目錄
+##### [1-1 Thinking and Discussion](#001)
+##### [1-2 安裝VMWare & Download Link](#002)
+##### [1-3 第一個Linux VM: 安裝Ubuntu 20/04 LST](#003)
+
+<a name="001"/>
+
 ## Lab 1-1 Thinking and Discussion
 
 #### 1. 你會如何介紹虛擬化技術?
@@ -11,10 +20,18 @@
 
 ##### 可以執行現存的虛擬裝置，也可以建立自己的虛擬機器（但只有在安裝作業系統後才能正常行使其功能）。它與VMware Workstation——一個功能更豐富但收費的相似軟體使用相同的虛擬化核心。VMware Player可免費用於個人非商業用途，或在書面授權下作發行等其他用途。VMware, Inc.並不為Player提供正式的技術支援，但有活躍的社群網站和知識庫用於討論、解決相關問題。
 
+[TOP](#000)
+
+<a name="002"/>
+
 ## Lab 1-2 安裝VMWare
 
+<a name="003"/>
 
+[TOP](#000)
 
 ## Lab 1-3 安裝Ubuntu 20/04 LST
 
 ![螢幕擷取畫面 2022-03-06 150134](https://user-images.githubusercontent.com/89327102/158043082-566463c3-82d4-4593-aace-8ae5497e09b6.jpg)
+
+[TOP](#000)
