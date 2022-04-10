@@ -6,4 +6,5 @@
 
 ## Lab3-2. Ubuntu環境介紹與練習
 
-![螢幕擷取畫面 2022-04-10 104956](https://user-images.githubusercontent.com/89327102/162599113-3e5904f2-4b4c-47ed-b137-0281e7ea9ceb.jpg)
+![螢幕擷取畫面 2022-04-10 105554](https://user-images.githubusercontent.com/89327102/162599273-2704563e-95ed-4b2c-967f-74e9d9bcc642.jpg)
+
