@@ -26,6 +26,9 @@
 
 ## Lab 1-2 安裝VMWare
 
+![螢幕擷取畫面 2022-04-10 112508](https://user-images.githubusercontent.com/89327102/162600146-faabf81e-0edb-4300-81f7-d024b8961ba5.jpg)
+
+
 <a name="003"/>
 
 [TOP](#000)
