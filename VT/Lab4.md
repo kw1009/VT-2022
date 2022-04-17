@@ -64,6 +64,8 @@
 
 ## Lab 4-2 BASH Shell介紹與實戰
 
+### A.
+
 ![螢幕擷取畫面 2022-04-17 120600](https://user-images.githubusercontent.com/89327102/163699948-87a0482d-a9e5-42a3-97da-acc91d92094a.jpg)
 
 [TOP](#000)
