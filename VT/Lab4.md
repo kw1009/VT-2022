@@ -25,4 +25,22 @@
 ![螢幕擷取畫面 2022-04-17 113514](https://user-images.githubusercontent.com/89327102/163699232-2d3c1345-a31f-4e56-b41c-3b0cabba9c05.jpg)
 
 
+![螢幕擷取畫面 2022-04-17 113839](https://user-images.githubusercontent.com/89327102/163699735-81e84d07-0a13-4e63-a7b7-12a313944458.jpg)
+
+
+![螢幕擷取畫面 2022-04-17 114256](https://user-images.githubusercontent.com/89327102/163699738-5019b196-741a-4f64-9720-054a1477cba0.jpg)
+
+
+![螢幕擷取畫面 2022-04-17 114346](https://user-images.githubusercontent.com/89327102/163699739-56a48df8-3647-428b-8332-dc19a2eefcf3.jpg)
+
+
+![螢幕擷取畫面 2022-04-17 115129](https://user-images.githubusercontent.com/89327102/163699742-c612e1e6-c936-45fa-99a8-14f28b5078ef.jpg)
+
+
+
+![螢幕擷取畫面 2022-04-17 115645](https://user-images.githubusercontent.com/89327102/163699751-321f598b-ddce-433f-83e6-a54ab0e03f66.jpg)
+
+
+
+## Lab 4-2 BASH Shell介紹與實戰
 
