@@ -64,8 +64,15 @@
 
 ## Lab 4-2 BASH Shell介紹與實戰
 
-### A.
+### A.創建並執行第一個 BASH 程序
 
-![螢幕擷取畫面 2022-04-17 120600](https://user-images.githubusercontent.com/89327102/163699948-87a0482d-a9e5-42a3-97da-acc91d92094a.jpg)
+![螢幕擷取畫面 2022-04-24 112504](https://user-images.githubusercontent.com/89327102/164955179-8135315b-b72a-4d80-ab17-527f301f3442.jpg)
+
+### B.來玩個簡單的加減乘除
+
+![螢幕擷取畫面 2022-04-24 111252](https://user-images.githubusercontent.com/89327102/164955206-48b5fde8-b0d9-443a-bf8e-e7bb35a15dcc.jpg)
+
+
+
 
 [TOP](#000)
