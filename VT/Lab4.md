@@ -78,9 +78,11 @@
 
 ### D.使用For Loop
 
+![螢幕擷取畫面 2022-04-24 125437](https://user-images.githubusercontent.com/89327102/164957462-96bfedfa-6ddc-4a70-9f14-d8bdd12a900b.jpg)
 
 ### E.如何讓使用者輸入?
 
+![螢幕擷取畫面 2022-04-24 130349](https://user-images.githubusercontent.com/89327102/164957473-7049a71f-8c06-4468-baee-a13fe29764d1.jpg)
 
 ### F.如何自動產生9x9表, 並自動將結果輸出到table99.txt中?
 
