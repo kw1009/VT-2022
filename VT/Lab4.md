@@ -72,7 +72,17 @@
 
 ![螢幕擷取畫面 2022-04-24 111252](https://user-images.githubusercontent.com/89327102/164955206-48b5fde8-b0d9-443a-bf8e-e7bb35a15dcc.jpg)
 
+### C.使用While Loop
 
+![螢幕擷取畫面 2022-04-24 115516](https://user-images.githubusercontent.com/89327102/164955964-31c9e408-809c-4f50-adb5-753320cd0879.jpg)
+
+### D.使用For Loop
+
+
+### E.如何讓使用者輸入?
+
+
+### F.如何自動產生9x9表, 並自動將結果輸出到table99.txt中?
 
 
 [TOP](#000)
