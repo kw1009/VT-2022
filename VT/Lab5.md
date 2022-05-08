@@ -36,6 +36,14 @@ ifconfig
 ## 1.你在Apache Server的第1個Web Page
 ### A. 我們的網頁存在哪呢 ?? 該如何編輯呢??
 
+![螢幕擷取畫面 2022-05-08 114252](https://user-images.githubusercontent.com/89327102/167281146-7f5c93a7-03dd-428e-9a31-7ad7d02e65da.jpg)
+
+### B.修改前, 記得先備份! 怎麼做呢?
+
+#### sudo cp index.html index_bkup.html
+
+![螢幕擷取畫面 2022-05-08 120418](https://user-images.githubusercontent.com/89327102/167281292-5c1ea409-157e-4ec8-a790-33b9c443a2de.jpg)
+
 [TOP](#000)
 
 # 5-3 Apache 網頁伺服器應用<a name="003"/>
