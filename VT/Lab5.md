@@ -72,9 +72,9 @@ sudo gedit /var/www/html/index.html
 
 ## 4.最後, 來玩點不一樣的, 可否把校網搬過來試試呢?
 
-### A
+### A.參考作法&結果
 
-
+![螢幕擷取畫面 2022-05-09 025201](https://user-images.githubusercontent.com/89327102/167311184-7942fe70-d011-4492-a497-9659f37e6a4b.jpg)
 
 [TOP](#000)
 
