@@ -62,6 +62,19 @@ sudo gedit /var/www/html/index.html
 
 ## 3.再來玩第3個Web Page
 
+### A.該如何用目錄來管理不同的網頁呢? 
+
+![螢幕擷取畫面 2022-05-09 020245](https://user-images.githubusercontent.com/89327102/167309520-6a8f24be-973d-43f1-9a9b-6c6d01943e87.jpg)
+
+### B.參考作法&結果
+
+![螢幕擷取畫面 2022-05-09 020927](https://user-images.githubusercontent.com/89327102/167309558-de0d9920-f470-477d-8efd-7866738d76cf.jpg)
+
+## 4.最後, 來玩點不一樣的, 可否把校網搬過來試試呢?
+
+### A
+
+
 
 [TOP](#000)
 
