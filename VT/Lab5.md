@@ -31,10 +31,12 @@ ifconfig
 
 [TOP](#000)
 
-# 5-2 Apache 網頁伺服器起手式<a name="002"/>
+<a name="002"/>
+
+# 5-2 Apache 網頁伺服器起手式
 
 ## 1.你在Apache Server的第1個Web Page
-### A. 我們的網頁存在哪呢 ?? 該如何編輯呢??
+### A.我們的網頁存在哪呢 ?? 該如何編輯呢??
 
 ![螢幕擷取畫面 2022-05-08 114252](https://user-images.githubusercontent.com/89327102/167281146-7f5c93a7-03dd-428e-9a31-7ad7d02e65da.jpg)
 
@@ -46,9 +48,19 @@ sudo cp index.html index_bkup.html
 
 sudo gedit /var/www/html/index.html
 
+### C. 參考結果與作法:
+
+## 2.再來玩第2個Web Page
+
+## 3.再來玩第3個Web Page
+
+
 [TOP](#000)
 
-# 5-3 Apache 網頁伺服器應用<a name="003"/>
+<a name="003"/>
 
+# 5-3 Apache 網頁伺服器應用
+
+## 1. 來玩點不一樣的, 可否把校網搬過來試試呢? 
 
 [TOP](#000)
