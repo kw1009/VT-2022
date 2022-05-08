@@ -36,6 +36,7 @@ ifconfig
 # 5-2 Apache 網頁伺服器起手式
 
 ## 1.你在Apache Server的第1個Web Page
+
 ### A.我們的網頁存在哪呢 ?? 該如何編輯呢??
 
 ![螢幕擷取畫面 2022-05-08 114252](https://user-images.githubusercontent.com/89327102/167281146-7f5c93a7-03dd-428e-9a31-7ad7d02e65da.jpg)
@@ -54,6 +55,10 @@ sudo gedit /var/www/html/index.html
 
 
 ## 2.再來玩第2個Web Page
+
+### A.參考作法&結果
+
+![螢幕擷取畫面 2022-05-09 015059](https://user-images.githubusercontent.com/89327102/167308980-5d066b2e-cf88-446c-81e6-eda45eacb31d.jpg)
 
 ## 3.再來玩第3個Web Page
 
