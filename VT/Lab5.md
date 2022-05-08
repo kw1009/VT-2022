@@ -46,9 +46,12 @@ sudo cp index.html index_bkup.html
 
 ![螢幕擷取畫面 2022-05-08 120418](https://user-images.githubusercontent.com/89327102/167281292-5c1ea409-157e-4ec8-a790-33b9c443a2de.jpg)
 
+### C. 參考結果與作法:
+
 sudo gedit /var/www/html/index.html
 
-### C. 參考結果與作法:
+![螢幕擷取畫面 2022-05-09 013016](https://user-images.githubusercontent.com/89327102/167308166-6d8042ea-b53a-4b79-8eef-33f6dbbadb24.jpg)
+
 
 ## 2.再來玩第2個Web Page
 
