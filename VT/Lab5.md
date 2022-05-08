@@ -40,9 +40,11 @@ ifconfig
 
 ### B.修改前, 記得先備份! 怎麼做呢?
 
-#### sudo cp index.html index_bkup.html
+sudo cp index.html index_bkup.html
 
 ![螢幕擷取畫面 2022-05-08 120418](https://user-images.githubusercontent.com/89327102/167281292-5c1ea409-157e-4ec8-a790-33b9c443a2de.jpg)
+
+sudo gedit /var/www/html/index.html
 
 [TOP](#000)
 
