@@ -82,6 +82,7 @@ sudo gedit /var/www/html/index.html
 
 # 5-3 Apache 網頁伺服器應用
 
+````
 sudo apt install git 先安裝 git 命令
 git clone 擷取網頁路徑 #copy 網頁路徑內容
 sudo cp -r clock /var/www/html #將 網頁路徑內容 copy 至 html 目錄下
@@ -89,6 +90,7 @@ sudo cp -r clock /var/www/html #將 網頁路徑內容 copy 至 html 目錄下
 cd /var/www/html/clock #路徑變更
 sudo chmod 777 index.html #權限變更
 gedit index.html #編輯此網頁
+````
 
 ## 實戰1
 
