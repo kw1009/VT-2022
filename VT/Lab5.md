@@ -89,5 +89,7 @@ sudo gedit /var/www/html/index.html
 
 ## B.BMI Calculator
 
+![螢幕擷取畫面 2022-05-22 121552](https://user-images.githubusercontent.com/89327102/169678342-5e511fbe-3c9f-4e77-99bb-78420a7c9a26.jpg)
+
 
 [TOP](#000)
