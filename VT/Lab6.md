@@ -13,6 +13,8 @@
 
 ### A.安裝一個方便開發的 Python 虛擬環境:使用 Pyenv 管理 Python 版本
 
+安裝前，先確認版本為Ubuntu最新版；有些版本會產生失誤。
+
 ![螢幕擷取畫面 2022-05-29 110444](https://user-images.githubusercontent.com/89327102/170852617-84650662-3e8f-4983-9a75-39b27e022cac.jpg)
 
 ````c
