@@ -15,6 +15,34 @@
 
 ![螢幕擷取畫面 2022-05-29 110444](https://user-images.githubusercontent.com/89327102/170852617-84650662-3e8f-4983-9a75-39b27e022cac.jpg)
 
+````c
+## Install Python packages (About N minutes)
+python3 --version
+
+Python 3.8.10
+
+sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python-openssl python-dev
+
+sudo apt-get install python3-pip
+
+## --- install pyenv
+ 
+sudo apt install curl 
+
+curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
+
+gedit ~/.bashrc
+
+--- 將以下 4 行添加到 .bashrc 的底部
+
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init --path)"
+eval "$(pyenv virtualenv-init -)"
+
+--- 完成後, 記得儲存後, 關閉終端並再次打開一個新的Terminal
+````
+
 ### B.在虛擬環境(pyenv)安裝python 3.6.5, 3.7.9, 3.9.13, (需要安裝一段時間)
 
 安裝前，先確認版本為Ubuntu最新版；有些版本會產生失誤。
