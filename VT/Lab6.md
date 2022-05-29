@@ -17,9 +17,7 @@
 
 ### B.在虛擬環境(pyenv)安裝python 3.6.5, 3.7.9, 3.9.13, (需要安裝一段時間)
 
-````c
 安裝前，先確認版本為Ubuntu最新版；有些版本會產生失誤。
-````
 
 ![螢幕擷取畫面 2022-05-29 120932](https://user-images.githubusercontent.com/89327102/170852663-94226229-8b7b-49a2-82ab-1a7802f16b70.jpg)
 
@@ -47,5 +45,11 @@ python --version
  
 # 4 完成後, 請重新起重Ubuntu VM, 即可以開始體驗Jupyter Notebook
 
+````
 ![螢幕擷取畫面 2022-05-29 121705](https://user-images.githubusercontent.com/89327102/170852826-cbde1757-144a-4a0f-acd8-ff8213278bbf.jpg)
+![螢幕擷取畫面 2022-05-29 123524](https://user-images.githubusercontent.com/89327102/170852873-ced1da8c-a5a1-4b88-af1d-17f2eb03d47b.jpg)
+
+
+### D.請參考以上作法, 再試試建立一個vnu365 Folder, 並且指定此Folder下只使用Python 3.6.5
+
 
