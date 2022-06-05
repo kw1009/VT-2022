@@ -88,3 +88,14 @@ python --version
 <a name="002"/>
 
 ## Lab 6-2 使用Jupyter Notebook來快速複習Python程式
+
+
+![螢幕擷取畫面 2022-06-06 002244](https://user-images.githubusercontent.com/89327102/172063746-dfa908b8-18f8-4d6d-b112-4ee8e8514f8a.jpg)
+
+![螢幕擷取畫面 2022-06-06 004427](https://user-images.githubusercontent.com/89327102/172063751-3257bec7-b994-4fcc-8c37-43ec701c8ed0.jpg)
+
+![螢幕擷取畫面 2022-06-06 012259](https://user-images.githubusercontent.com/89327102/172063758-32c83ff9-4bb7-435b-b758-4376c8dfa159.jpg)
+
+
+
+
