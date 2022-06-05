@@ -84,3 +84,7 @@ python --version
 
 ![螢幕擷取畫面 2022-06-05 235703](https://user-images.githubusercontent.com/89327102/172059283-e37d906e-f985-4b12-af0e-30ea4136c708.jpg)
 
+
+<a name="002"/>
+
+## Lab 6-2 使用Jupyter Notebook來快速複習Python程式
