@@ -96,6 +96,20 @@ python --version
 
 ![螢幕擷取畫面 2022-06-06 012259](https://user-images.githubusercontent.com/89327102/172063758-32c83ff9-4bb7-435b-b758-4376c8dfa159.jpg)
 
+![螢幕擷取畫面 2022-06-12 114151](https://user-images.githubusercontent.com/89327102/173213947-d04557e9-8ce6-4589-93e0-01a51edff3f9.jpg)
+
+![螢幕擷取畫面 2022-06-12 115206](https://user-images.githubusercontent.com/89327102/173213948-ef414bd9-b888-4be7-bd31-1dd8df9a580b.jpg)
+
+![螢幕擷取畫面 2022-06-12 115317](https://user-images.githubusercontent.com/89327102/173213952-220585df-1437-4957-9f4a-90321158ef9a.jpg)
+
+![螢幕擷取畫面 2022-06-12 120026](https://user-images.githubusercontent.com/89327102/173213955-30484737-1960-407c-8398-8623a0d0e2f6.jpg)
+
+![螢幕擷取畫面 2022-06-12 120235](https://user-images.githubusercontent.com/89327102/173213956-c12100bb-60e5-4905-9630-90ed4a18e3d0.jpg)
+
+![螢幕擷取畫面 2022-06-12 120538](https://user-images.githubusercontent.com/89327102/173213964-a977d1ed-0cf1-44ba-be04-47357b9546b5.jpg)
+
+
+
 
 
 
