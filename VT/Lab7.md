@@ -36,7 +36,5 @@
 
 ## Lab 7-3 程式架構簡介與說明, 如何將影像與路徑結合?
 
-![Uploading 螢幕擷取畫面 2022-06-19 121147.jpg…]()
-
-
+![螢幕擷取畫面 2022-06-19 121147](https://user-images.githubusercontent.com/89327102/174465526-d7c65fb7-a3a9-467e-b6ca-ba674d82ae9a.jpg)
 
