@@ -21,12 +21,13 @@ git clone from our Ubuntu VM
 
 ## Lab 7-2 AI Self Driving Car - Lane and Path Detection
 
-sudo apt update
-sudo pip3 install --upgrade tensorflow requests
-
 ![螢幕擷取畫面 2022-06-19 104951](https://user-images.githubusercontent.com/89327102/174464283-27022a86-40d5-478b-9ac4-ddf4f566a4c8.jpg)
 
+sudo apt update
+
 ![螢幕擷取畫面 2022-06-19 110412](https://user-images.githubusercontent.com/89327102/174464287-35ec415a-1d98-42f6-9f2e-e8e0c40f9737.jpg)
+
+sudo pip3 install --upgrade tensorflow requests
 
 ![螢幕擷取畫面 2022-06-19 110502](https://user-images.githubusercontent.com/89327102/174464290-235d3029-5b52-4a38-99f1-2765f24f360f.jpg)
 
