@@ -24,21 +24,21 @@ git clone from our Ubuntu VM
 sudo apt update
 sudo pip3 install --upgrade tensorflow requests
 
-
-pip install -r requirements.txt
-pip3 install PyQt5==5.9.2
-
-pip install --upgrade pip
-
 ![螢幕擷取畫面 2022-06-19 104951](https://user-images.githubusercontent.com/89327102/174464283-27022a86-40d5-478b-9ac4-ddf4f566a4c8.jpg)
 
 ![螢幕擷取畫面 2022-06-19 110412](https://user-images.githubusercontent.com/89327102/174464287-35ec415a-1d98-42f6-9f2e-e8e0c40f9737.jpg)
 
 ![螢幕擷取畫面 2022-06-19 110502](https://user-images.githubusercontent.com/89327102/174464290-235d3029-5b52-4a38-99f1-2765f24f360f.jpg)
 
+pip install -r requirements.txt
+
 ![螢幕擷取畫面 2022-06-19 110535](https://user-images.githubusercontent.com/89327102/174464295-d223434b-d892-4702-80e5-1cbfd94b6991.jpg)
 
+pip3 install PyQt5==5.9.2
+
 ![螢幕擷取畫面 2022-06-19 110624](https://user-images.githubusercontent.com/89327102/174464298-19d5631f-6e7c-4092-be69-a24435ecc1e4.jpg)
+
+pip install --upgrade pip
 
 ![螢幕擷取畫面 2022-06-19 110838](https://user-images.githubusercontent.com/89327102/174464301-ab49591f-1d62-421b-b702-ac42af863df5.jpg)
 
