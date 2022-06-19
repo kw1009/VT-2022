@@ -24,6 +24,7 @@ git clone from our Ubuntu VM
 sudo apt update
 sudo pip3 install --upgrade tensorflow requests
 
+
 pip install -r requirements.txt
 pip3 install PyQt5==5.9.2
 
