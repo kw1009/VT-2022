@@ -30,6 +30,8 @@
 
 ![螢幕擷取畫面 2022-06-19 110838](https://user-images.githubusercontent.com/89327102/174464301-ab49591f-1d62-421b-b702-ac42af863df5.jpg)
 
+![螢幕擷取畫面 2022-06-19 120546](https://user-images.githubusercontent.com/89327102/174465441-7590083c-4dfe-4337-8275-40a30b8190be.jpg)
+
 <a name="003"/>
 
 ## Lab 7-3 程式架構簡介與說明, 如何將影像與路徑結合?
