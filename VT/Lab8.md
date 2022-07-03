@@ -31,9 +31,10 @@ https://www.youtube.com/watch?v=ccXl9KY005M
 
 ## Lab 8-3 OpenVINO: 深度估計? 自動去換背?
 
+![螢幕擷取畫面 2022-07-03 120142](https://user-images.githubusercontent.com/89327102/177024095-30d3e1c1-a51b-417c-ba37-45b196889db3.jpg)
 
 
-
+![螢幕擷取畫面 2022-07-03 120208](https://user-images.githubusercontent.com/89327102/177024093-8faf4c55-bf99-46a5-93f5-cbe904c348b7.jpg)
 
 
 <a name="004"/>
