@@ -40,3 +40,4 @@ https://www.youtube.com/watch?v=ccXl9KY005M
 
 ## [Lab 8-4 OpenVINO: 照片轉動漫? 風格遷移?
 
+![螢幕擷取畫面 2022-07-03 112954](https://user-images.githubusercontent.com/89327102/177023389-4c6d7de5-c80b-4b54-abc7-2f33fd28bc4e.jpg)
