@@ -27,3 +27,6 @@
 <a name="003"/>
 
 ## Lab 9-3 什麼是Docker 映像檔（image）? 容器（container）?倉庫（repository）? Docker初體驗
+
+![螢幕擷取畫面 2022-07-10 103647](https://user-images.githubusercontent.com/89327102/178129023-1f2db8fe-ee4f-47f2-b69f-c27114f7a5a6.jpg)
+
