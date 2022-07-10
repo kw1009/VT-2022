@@ -86,6 +86,6 @@
 
 ### F.如何自動產生9x9表, 並自動將結果輸出到table99.txt中?
 
-![螢幕擷取畫面 2022-04-24 142454](https://user-images.githubusercontent.com/89327102/164959713-9e770c75-ead8-4c84-9303-75ae05127198.jpg)
+![螢幕擷取畫面 2022-07-10 111826](https://user-images.githubusercontent.com/89327102/178129955-4681e2dc-ea1e-4bf1-918e-f284d7b2e90a.jpg)
 
 [TOP](#000)
