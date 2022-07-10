@@ -22,7 +22,7 @@
 
 ## Lab 9-2 How To Install Docker on Ubuntu?
 
-
+![螢幕擷取畫面 2022-07-10 102718](https://user-images.githubusercontent.com/89327102/178128864-278dba32-5e54-4f74-9c79-de5e34d78acc.jpg)
 
 <a name="003"/>
 
