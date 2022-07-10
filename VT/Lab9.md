@@ -43,13 +43,14 @@
 ## Lab 9-4 進入Docker Image的世界: Ubuntu 
 
 ![螢幕擷取畫面 2022-07-10 114052](https://user-images.githubusercontent.com/89327102/178130349-00d3aa77-dbcc-4db9-8e0e-fd57f99d204a.jpg)
-![螢幕擷取畫面 2022-07-10 120550](https://user-images.githubusercontent.com/89327102/178130872-fc81b7d0-088d-41ca-bc5b-c2f34f588b1e.jpg)
 
 [TOP](#000)
 
 <a name="005"/>
 
 ## Lab 9-5 進入Docker Image的世界: Python3
+
+![螢幕擷取畫面 2022-07-10 120550](https://user-images.githubusercontent.com/89327102/178130872-fc81b7d0-088d-41ca-bc5b-c2f34f588b1e.jpg)
 
 [TOP](#000)
 
