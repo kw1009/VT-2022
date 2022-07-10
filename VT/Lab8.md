@@ -17,6 +17,8 @@
 
 https://www.youtube.com/watch?v=ccXl9KY005M
 
+[TOP](#000)
+
 <a name="002"/>
 
 ## Lab 8-2 英特爾OpenVINO安裝與初體驗?
@@ -27,6 +29,8 @@ https://www.youtube.com/watch?v=ccXl9KY005M
 
 ![螢幕擷取畫面 2022-07-02 133727](https://user-images.githubusercontent.com/89327102/176988111-c7d9e65b-07b8-492f-a7cf-f5b2038a89a9.jpg)
 
+[TOP](#000)
+
 <a name="003"/>
 
 ## Lab 8-3 OpenVINO: 深度估計? 自動去換背?
@@ -36,9 +40,12 @@ https://www.youtube.com/watch?v=ccXl9KY005M
 
 ![螢幕擷取畫面 2022-07-03 120208](https://user-images.githubusercontent.com/89327102/177024093-8faf4c55-bf99-46a5-93f5-cbe904c348b7.jpg)
 
+[TOP](#000)
 
 <a name="004"/>
 
 ## [Lab 8-4 OpenVINO: 照片轉動漫? 風格遷移?
 
 ![螢幕擷取畫面 2022-07-03 112954](https://user-images.githubusercontent.com/89327102/177023389-4c6d7de5-c80b-4b54-abc7-2f33fd28bc4e.jpg)
+
+[TOP](#000)
