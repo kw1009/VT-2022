@@ -9,7 +9,7 @@
 ##### [Lab 9-3 什麼是Docker 映像檔（image）? 容器（container）?倉庫（repository）? Docker初體驗](#003)
 ##### [Lab 9-4 進入Docker Image的世界: Ubuntu ](#004)
 ##### [Lab 9-5 進入Docker Image的世界: Python3](#005)
-##### [Lab 9-6 最後, 來試試建立自己的Docker Image. Let’s go!!](#0036)
+##### [Lab 9-6 最後, 來試試建立自己的Docker Image. Let’s go!!](#006)
 
 <a name="001"/>
 
