@@ -58,4 +58,6 @@
 
 ## Lab 9-6 最後, 來試試建立自己的Docker Image. Let’s go!!
 
+![螢幕擷取畫面 2022-07-10 123853](https://user-images.githubusercontent.com/89327102/178131458-1a793db0-e172-44c3-b4a0-a3ab11fa7efa.jpg)
+
 [TOP](#000)
