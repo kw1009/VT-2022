@@ -42,6 +42,8 @@
 
 ## Lab 9-4 進入Docker Image的世界: Ubuntu 
 
+![螢幕擷取畫面 2022-07-10 114052](https://user-images.githubusercontent.com/89327102/178130349-00d3aa77-dbcc-4db9-8e0e-fd57f99d204a.jpg)
+
 [TOP](#000)
 
 <a name="005"/>
